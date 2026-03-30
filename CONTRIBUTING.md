@@ -22,7 +22,7 @@ This file will walk you through every step there is to both first starting out, 
 
 
 ## Step 1: Forking the repository
-- Go to the UF OSC PomoDojo repository, and press the **fork** button near the top of the screen.
+- Go to the UF Club C.O.D.E. PomoDojo repository, and press the **fork** button near the top of the screen.
 - Keep the name the same if you'd like, then click create fork.
 
 - This is your copy of the repository; make sure your fork is always up to date when submitting changes and contributing, by pressing the **sync** button.
@@ -93,5 +93,5 @@ Either way, you should now be in your project file directory.
 - Now, click the **"Contribute"** button on GitHub to make a pull request to our main repository.
 - Make sure to include a descriptive name for your pull request, outlining what was changed in your commit(s). If you're solving an issue #, try to include the issue number in the pull request name
 
-# Great job submitting a Pull Request, a Tech lead will look over your code and send you updates if anything needs further refinement. Thank you for contributing to PomoDojo!
+# Great job submitting a Pull Request, a Development lead will look over your code and send you updates if anything needs further refinement. Thank you for contributing to PomoDojo!
 
