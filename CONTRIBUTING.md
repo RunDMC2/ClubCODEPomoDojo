@@ -41,7 +41,7 @@ This file will walk you through every step there is to both first starting out, 
 Either way, you should now be in your project file directory.
 - Now, copy the GitHub URL of your forked repository and type:
 - **git clone *URL***, and press enter
-- The type **git pull** to retrieve all of the files.
+- Then type **git pull** to retrieve all of the files.
 
 - This has now made a copy of the repository from GitHub onto your local device, and retrieved all of the files into it.
 
